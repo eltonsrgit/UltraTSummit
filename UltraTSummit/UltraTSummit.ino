@@ -4,7 +4,7 @@
   Alimentar o ESP32 C3 Mini do rádio pistola com um power bank ou um celular, as pilhas podem não dar conta,
   afetando a direção do robô;
 
-  www.github.com/eltonsrgit
+  https://github.com/eltonsrgit/UltraTSummit/
 */
 #include "SumoIR.h"
 #include "DRV8833.h"
