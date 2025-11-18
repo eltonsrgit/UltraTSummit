@@ -9,7 +9,7 @@ https://randomnerdtutorials.com/esp-now-esp32-arduino-ide/
 Cada ESP32 tem um endereço MAC Wi-Fi. O código é bem auto explicativo nessa parte, basta preencher 
 o campo com o MAC do receptor, que os dados serão enviados, desde que o struct de ambos sejam os mesmos.
 
-O código para descobrir o endereço MAC de um ESP32 se encontra nessa mesma pasta. Ressaltando que encontrei dificuldades 
+O código para descobrir o endereço MAC de um ESP32 se encontra nesse mesmo repositório. Ressaltando que encontrei dificuldades 
 para fazer o ESP32 C3 Mini imprimir algo no Serial Monitor. Recomendo testes, experimentos e simulações para a verificação.
 
  
